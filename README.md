@@ -49,7 +49,7 @@ Step 3 – Visualization & Reporting (Power BI)
 
 - Key metrics included:
 
--  Total Vendors: 128
+Total Vendors: 128
 
 Total Purchases: $321.9M
 
@@ -63,19 +63,19 @@ Top brands analyzed: Jack Daniels, Tito’s, Absolut, Captain Morgan, Ketel One
 
 📈 Key Insights
 
-Vendors generated $451M in sales from $321M in purchases, yielding $129M gross profit
+- Vendors generated $451M in sales from $321M in purchases, yielding $129M gross profit
 
-Strong correlation between purchases and sales → consistent demand patterns
+- Strong correlation between purchases and sales → consistent demand patterns
 
-High-margin, low-sales brands identified as growth opportunities
+- High-margin, low-sales brands identified as growth opportunities
 
-Power BI dashboards provide both executive KPIs and brand-level drilldowns
+- Power BI dashboards provide both executive KPIs and brand-level drilldowns
 
 🚀 Impact
 
-Automated pipeline from raw CSVs → Database → Insights
+- Automated pipeline from raw CSVs → Database → Insights
 
-Actionable intelligence for vendor management & promotions
+- Actionable intelligence for vendor management & promotions
 
 Scalable design: new data files refresh automatically
 
