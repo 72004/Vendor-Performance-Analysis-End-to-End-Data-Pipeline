@@ -20,35 +20,36 @@ The pipeline ingests raw transactional data, transforms it into meaningful KPIs,
 Power BI – Interactive dashboards and business reporting
 
 🔄 Data Pipeline Workflow
-- Step 1 – Data Ingestion (Python + SQLite)
 
-Script: ingestion_db.py
+Step 1 – Data Ingestion (Python + SQLite)
 
-Reads all CSV files from data/ folder
+- Script: ingestion_db.py
 
-Loads them into inventory.db as structured tables
+- Reads all CSV files from data/ folder
 
-Logging captures ingestion details and runtime
+- Loads them into inventory.db as structured tables
+
+- Logging captures ingestion details and runtime
 
 Step 2 – Data Transformation & EDA (Python)
 
-Script: explotary_data_analysis.py
+- Script: explotary_data_analysis.py
 
-Built consolidated vendor_sales_summary table
+- Built consolidated vendor_sales_summary table
 
-Derived KPIs: Gross Profit, Profit Margin, Stock Turnover, Sales-to-Purchase Ratio
+- Derived KPIs: Gross Profit, Profit Margin, Stock Turnover, Sales-to-Purchase Ratio
 
-Visualizations: Histograms, Boxplots, Heatmaps
+- Visualizations: Histograms, Boxplots, Heatmaps
 
-Insights: Detected brands with low sales but high margins (promotion candidates)
+- Insights: Detected brands with low sales but high margins (promotion candidates)
 
 Step 3 – Visualization & Reporting (Power BI)
 
-Interactive dashboards with vendor and brand-level analysis
+- Interactive dashboards with vendor and brand-level analysis
 
-Key metrics included:
+- Key metrics included:
 
-Total Vendors: 128
+-  Total Vendors: 128
 
 Total Purchases: $321.9M
 
