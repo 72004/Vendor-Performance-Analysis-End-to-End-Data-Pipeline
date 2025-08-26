@@ -82,3 +82,5 @@ Scalable design: new data files refresh automatically
 Reliable, centralized single source of truth
 
 Business-ready dashboards for quick decision-making
+
+<img width="1487" height="813" alt="image" src="https://github.com/user-attachments/assets/2df97728-058f-48d0-a6a5-ca2b0e15ebd2" />
