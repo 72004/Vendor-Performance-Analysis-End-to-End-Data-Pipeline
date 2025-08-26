@@ -61,6 +61,9 @@ Stock Turnover: 18.25K
 
 Top brands analyzed: Jack Daniels, Tito’s, Absolut, Captain Morgan, Ketel One
 
+<img width="1487" height="813" alt="image" src="https://github.com/user-attachments/assets/2df97728-058f-48d0-a6a5-ca2b0e15ebd2" />
+
+
 📈 Key Insights
 
 - Vendors generated $451M in sales from $321M in purchases, yielding $129M gross profit
@@ -83,4 +86,3 @@ Reliable, centralized single source of truth
 
 Business-ready dashboards for quick decision-making
 
-<img width="1487" height="813" alt="image" src="https://github.com/user-attachments/assets/2df97728-058f-48d0-a6a5-ca2b0e15ebd2" />
